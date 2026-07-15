@@ -1,25 +1,24 @@
 # C++ Basics
 
-This repository contains my C++ learning journey.
+Welcome to my C++ learning journey.
 
-## 📚 Topics
+## 📚 Topics Covered
 
 - [x] Hello World
 - [ ] Variables
 - [ ] Data Types
 - [ ] Operators
-- [ ] If Else
+- [ ] If-Else
 - [ ] Loops
 - [ ] Functions
 - [ ] Arrays
 - [ ] Strings
 - [ ] Pointers
 - [ ] STL
-- [ ] OOP
-## 🛠️ Language
+- [ ] Object-Oriented Programming (OOP)
 
-- C++
+## 🎯 Goal
 
-## 👨‍💻 Author
+Learn modern C++ and Data Structures & Algorithms while building a strong foundation for software engineering interviews and real-world development.
 
-Vatsal
+---
